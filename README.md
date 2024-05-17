@@ -26,6 +26,5 @@ los nacimientos y las defunciones, además, se obtuvo el crecimiento total de la
 partir de la diferencia de la población total del año 2 y la población total del año 1. 
 Posteriormente, se utiliza el método de cálculo para la migración neta en base a la diferencia 
 entre crecimiento total y el crecimiento vegetativo. 
+###Grafica Impulso-Respuesta
 ![image](https://github.com/Juand011/Dinamicas-Poblacionales-/assets/170026024/126f628b-9509-41d1-b582-fe9b5268f31e)
-
-![image](https://github.com/Juand011/Dinamicas-Poblacionales-/assets/170026024/c6351aee-0908-41ee-bd15-233ddab07cf5)
